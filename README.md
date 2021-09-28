@@ -1,7 +1,5 @@
 Hi, I’m Dominick
 
-I’m interested in getting hired
-
 I’m currently learning python, javascript, php, but I have already studied and have an advanced understanding of C++
 
 I’m looking to collaborate on anything. Go ahead and reach out to me!
